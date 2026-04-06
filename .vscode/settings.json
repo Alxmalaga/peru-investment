@@ -1,0 +1,38 @@
+{
+  "chat.mcp.discovery.enabled": {
+    "claude-desktop": true
+  },
+  "chat.agent.maxRequests": 100,
+  "chat.editing.autoAcceptDelay": 15,
+  "chat.editor.fontSize": 13,
+  "editor.fontSize": 13,
+  "debug.console.fontSize": 13,
+  "scm.inputFontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "markdown.preview.fontSize": 13,
+  "markdown.preview.lineHeight": 1.5,
+  "github.copilot.chat.githubMcpServer.enabled": true,
+  "github.copilot.chat.githubMcpServer.lockdown": true,
+  "editor.formatOnPaste": true,
+  "workbench.browser.enableChatTools": true,
+  "workbench.browser.openLocalhostLinks": true,
+  "github.copilot.chat.agentDebugLog.enabled": true,
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.mouseWheelZoom": true,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "chat.viewProgressBadge.enabled": true,
+  "chat.useAgentSkills": true,
+  "chat.experimental.useSkillAdherencePrompt": true,
+  "github.copilot.chat.switchAgent.enabled": true,
+  "chat.agent.thinking.phrases": {
+    "mode": "append",
+    "phrases": []
+  },
+  "chat.useNestedAgentsMdFiles": true,
+  "chat.mcp.serverSampling": {
+
+  }
+}

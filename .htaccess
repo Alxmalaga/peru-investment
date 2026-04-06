@@ -1,0 +1,50 @@
+# Redirect broken service pages
+Redirect 301 /services/export-import/index.html /services/index.html
+Redirect 301 /services/legal-tax/index.html /services/index.html
+Redirect 301 /services/mining-metallurgy/index.html /services/index.html
+Redirect 301 /services/economic-financial/index.html /services/index.html
+Redirect 301 /services/commercial-advisory/index.html /services/index.html
+
+# Redirect broken portfolio pages
+Redirect 301 /portfolio/copper-extraction/index.html /portfolio/index.html
+Redirect 301 /portfolio/copper-processing/index.html /portfolio/index.html
+Redirect 301 /portfolio/copper-export/index.html /portfolio/index.html
+Redirect 301 /portfolio/silver-mining/index.html /portfolio/index.html
+Redirect 301 /portfolio/silver-refinement/index.html /portfolio/index.html
+Redirect 301 /portfolio/silver-trading/index.html /portfolio/index.html
+Redirect 301 /portfolio/gold-exploration/index.html /portfolio/index.html
+Redirect 301 /portfolio/gold-extraction/index.html /portfolio/index.html
+Redirect 301 /portfolio/gold-investment/index.html /portfolio/index.html
+Redirect 301 /portfolio/mining-technology/index.html /portfolio/index.html
+Redirect 301 /portfolio/mineral-export/index.html /portfolio/index.html
+Redirect 301 /portfolio/investment-structuring/index.html /portfolio/index.html
+Redirect 301 /portfolio-3-columns/index.html /portfolio/index.html
+
+# Redirect broken membership pages
+Redirect 301 /membership/basic/index.html /membership/index.html
+Redirect 301 /membership/professional/index.html /membership/index.html
+Redirect 301 /membership/premium/index.html /membership/index.html
+
+# Redirect broken pages
+Redirect 301 /benefits/index.html /index.html
+Redirect 301 /partners/index.html /index.html
+Redirect 301 /2025/index.html /index.html
+Redirect 301 /blog-full-right-sidebar-with-frame/index.html /blog/index.html
+Redirect 301 /financity/portfolio-3-columns/index.html /portfolio/index.html
+Redirect 301 /financity/blog-full-right-sidebar-with-frame/index.html /blog/index.html
+
+# Redirect broken blog posts
+Redirect 301 /2025/07/20/index.html /blog/index.html
+Redirect 301 /2025/07/20/peru-mining-investments/index.html /blog/index.html
+Redirect 301 /2025/07/18/copper-market-analysis/index.html /blog/index.html
+Redirect 301 /2025/07/15/sustainable-mining-practices/index.html /blog/index.html
+Redirect 301 /2025/07/12/gold-investment-trends/index.html /blog/index.html
+Redirect 301 /2025/07/10/mining-technology-innovations/index.html /blog/index.html
+
+# Redirect broken author/category pages
+Redirect 301 /author/pmp-team/index.html /index.html
+Redirect 301 /category/mining-news/index.html /blog/index.html
+Redirect 301 /category/market-analysis/index.html /blog/index.html
+Redirect 301 /category/sustainability/index.html /blog/index.html
+Redirect 301 /category/investment-trends/index.html /blog/index.html
+Redirect 301 /category/technology/index.html /blog/index.html

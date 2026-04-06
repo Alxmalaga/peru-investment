@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "pmi-project-server": {
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "& 'D:/pmi project/mcp-server/venv/Scripts/python.exe' 'D:/pmi project/mcp-server/server.py' 'D:/pmi project/peru-investment'"
+      ]
+    },
+    "auditor-web": {
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-Command",
+        "& 'D:/pmi project/mcp-server/venv/Scripts/python.exe' 'D:/pmi project/mcp-server/mcp_auditor.py'"
+      ]
+    }
+  }
+}
